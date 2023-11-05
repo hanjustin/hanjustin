@@ -9,9 +9,13 @@
 
 ---
 
-💪 **New hobby:** Trying to workout everyday
+💪 **New hobby:** Trying to workout everyday at ${\textbf{\color{purple} Planet Fitness }}$
 
-<img src="/img/Aug_2023.PNG" width="160">
+<div>
+    <img src="/img/Aug_2023.PNG" width="145">
+    <img src="/img/Sep_2023.PNG" width="145">
+    <img src="/img/Oct_2023.PNG" width="145">
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
