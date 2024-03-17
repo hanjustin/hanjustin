@@ -7,7 +7,10 @@
 
 * [LeetCode submissions](https://github.com/hanjustin/LeetCode-DSA-problems) in **Python & Swift** with notes.
 
-[![LeetCode stats](https://leetcard.jacoblin.cool/hanjustin)](https://leetcode.com/hanjustin/)
+<!-- BACKUP -->
+<!-- [![LeetCode stats](https://leetcard.jacoblin.cool/hanjustin)](https://leetcode.com/hanjustin/) -->
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hanjustin)](https://leetcode.com/hanjustin/)
 
 ---
 
