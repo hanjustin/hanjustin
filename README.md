@@ -1,5 +1,5 @@
 
-🌱 Currently honing **Go & Java** skills.
+🌱 Currently honing **Go & Java** skills, so may not be adhering to best practices.
 
 ---
 
