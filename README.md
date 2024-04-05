@@ -1,6 +1,8 @@
-🔭 Generalist developer. Jack of all trades, master of none. Want to learn from others' experiences and improve interpersonal skills.
+🔭 Generalist developer. Jack of all trades, master of none.
 
 🌱 Currently honing **Go & Java** skills, so may not be adhering to best practices.
+
+✍🏻 Want to learn from others' experiences and improve interpersonal skills.
 
 ---
 
