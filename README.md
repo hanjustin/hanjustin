@@ -2,7 +2,7 @@
 
 🌱 Currently honing **Go & Java** skills, so may not be adhering to best practices.
 
-✍🏻 Want to learn from others' experiences and improve interpersonal skills.
+✍🏻 Want to collaborate to improve my interpersonal skills for effective requirements gathering and cooperate to learn from others' experiences to enhance my trade-off analysis skills.
 
 ---
 
