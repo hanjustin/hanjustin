@@ -1,8 +1,8 @@
-🔭 Generalist developer. Jack of all trades, master of none.
+🗣️ Want to collaborate to improve my interpersonal skills for effective tech trade-off discussions & requirements gathering.
 
-🌱 Currently honing **Go & Java** skills, so may not be adhering to best practices.
+🤝 Want to cooperate while learning from others’ experiences to adhere best practices & coding style guides to ensure quality codebase with standards to minimize tech debt.
 
-✍🏻 Want to collaborate to improve my interpersonal skills for effective requirements gathering and cooperate to learn from others' experiences to enhance my trade-off analysis skills.
+🌱 Currently practicing **Go**.
 
 ---
 
