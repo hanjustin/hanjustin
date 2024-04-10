@@ -2,8 +2,6 @@
 
 🤝 Want to cooperate while learning from others’ experiences to adhere best practices & coding style guides to ensure quality codebase with standards to minimize tech debt.
 
-🌱 Currently practicing **Go**.
-
 ---
 
 * [LeetCode Profile](https://leetcode.com/hanjustin/)
