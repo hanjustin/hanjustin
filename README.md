@@ -42,7 +42,7 @@ The external presentation is largely a positive experience for those on the rece
 ---
 
 💪 **New hobby:** Workout everyday at ${\textbf{\color{purple} Planet Fitness }}$.<br>
-Fitness coach said: "You are weaker than a 1st grader or someone in his 80s. It's a miracle how you are still functioning."<br>
+Fitness coach said: "You are weaker than a 1st grader or someone in his 80s. I've helped many people with weak bodies, but I have not seen a body like this before. It's a miracle how you are still functioning."<br>
 Haven't exercised my whole life, so in my rehab stage. 😛
 
 <div>
