@@ -37,7 +37,7 @@ Fawn trauma is also called as "please-and-appease" or "tend-and-befriend" trauma
 
 The external presentation is largely a positive experience for those on the receiving end, so fawning is rarely perceived as problematic. However, this comes at a great cost.
 
-### [Read about my problematic behavioral patterns](https://gist.github.com/hanjustin/eb112405dd48b50f7122c3a0972d9de7#file-my-negative-characteristic-traits-md) 🚩🚩🚩
+### [Read about my problematic behavioral patterns](https://gist.github.com/hanjustin/eb112405dd48b50f7122c3a0972d9de7#file-my-negative-characteristic-traits-md) 🚩🚩🚩 (WARNING: Slightly dark & long)
 
 ---
 
