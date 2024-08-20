@@ -4,7 +4,7 @@ Fawning is a relationship trauma response. It was recently added to the better-k
 
 ## Conflict Resolution in Relationships:
 
-Fawning prioritizes seeking safety in relationships by relinquishing power & control and agreeing to the demands of others.
+Fawning prioritizes seeking safety by agreeing to the demands of others and relinquishing power & control in relationships.
 
 <table>
   <tr>
