@@ -1,41 +1,33 @@
-## My Stress Response:
+## Conflict Resolution Style:
 
-Fawning is a relationship trauma response. It was recently added to the better-known Fight, Flight, & Freeze responses. Australia adopted the [4-F model](https://docs.google.com/viewer?url=https://github.com/hanjustin/hanjustin/raw/main/resources/Australia.pdf).
-
-## Conflict Resolution in Relationships:
-
-Fawning prioritizes seeking safety by agreeing to the demands of others and relinquishing power & control in relationships.
+Fawning is a relationship trauma response. It prioritizes seeking safety by agreeing to the demands of others and relinquishing power & control in relationships. It was recently added to the better-known Fight, Flight, & Freeze responses. Australia adopted the [4-F model](https://docs.google.com/viewer?url=https://github.com/hanjustin/hanjustin/raw/main/resources/Australia.pdf).
 
 <table>
   <tr>
-    <td><b>Put others first</b></td>
-    <td>Prioritize needs of others & compromise own needs.</td>
+    <td><b>Receptive to feedback</b></td>
+    <td>Respond to criticism with praise, admiration, or apology.</td>
+  </tr>
+  <tr>
+    <td><b>Non-confrontational</b></td>
+    <td>Lack assertiveness, make suggestions instead. No strong opinion.</td>
   </tr>
   <tr>
     <td><b>Empathic</b></td>
     <td>Focus on the emotions of others (but ignore own emotions)</td>
   </tr>
   <tr>
-    <td><b>Compliant & Submissive</b></td>
-    <td>“I’ll do whatever you want me to do” attitude to de-escalate conflict.</td>
-  </tr>
-  <tr>
     <td><b>Going along with others</b></td>
     <td>Quickly change preferences, opinions, & behaviors to align with others</td>
   </tr>
   <tr>
-    <td><b>Non-confrontational</b></td>
-    <td>Lack assertiveness, make suggestions instead. Can't argue nor push opinions.</td>
-  </tr>
-  <tr>
-    <td><b>Receptive to feedback</b></td>
-    <td>Respond to criticism with praise, admiration, or apology.</td>
+    <td><b>Compliant & Submissive</b></td>
+    <td>Weak boundaries. “I’ll do whatever you want me to do” attitude to de-escalate conflict.</td>
   </tr>
 </table>
 
 ## My Personality Flaws
 
-Fawn trauma is also called as "please-and-appease" or "tend-and-befriend" trauma. Individuals who developed fawn response interpersonal schemas may excel in settings where collaboration & cooperation are valued over individual achievement, but may struggle to succeed in assertive & competitive environments.
+Fawn trauma is also called as "please-and-appease" or "tend-and-befriend" trauma. Individuals with fawning behaviors may excel in settings where collaboration & cooperation are valued over individual achievement, but may struggle to succeed in assertive & competitive environments.
 
 The external presentation is largely a positive experience for those on the receiving end, so fawning is rarely perceived as problematic. However, this comes at a great cost.
 
