@@ -4,7 +4,7 @@ Fawning is a relationship trauma response. It was recently added to the better-k
 
 ## Conflict Resolution in Relationships:
 
-Fawn trauma is also called as "please-and-appease" or "tend-and-befriend" trauma. Fawning prioritizes agreeing with others and relinquishing power & control in relationships to resolve conflicts. Individuals who developed fawn response interpersonal schemas may excel in settings where collaboration & cooperation are valued over individual achievement, but may struggle to succeed in assertive & competitive environments.
+Fawning prioritizes seeking safety in relationships by relinquishing power & control and agreeing to the demands of others.
 
 <table>
   <tr>
@@ -34,6 +34,8 @@ Fawn trauma is also called as "please-and-appease" or "tend-and-befriend" trauma
 </table>
 
 ## My Personality Flaws
+
+Fawn trauma is also called as "please-and-appease" or "tend-and-befriend" trauma. Individuals who developed fawn response interpersonal schemas may excel in settings where collaboration & cooperation are valued over individual achievement, but may struggle to succeed in assertive & competitive environments.
 
 The external presentation is largely a positive experience for those on the receiving end, so fawning is rarely perceived as problematic. However, this comes at a great cost.
 
