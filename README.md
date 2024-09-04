@@ -9,7 +9,7 @@ Fawning is a complex trauma response developed as a last resort in prolonged hig
   </tr>
   <tr>
     <td><b>Non-confrontational & <br>Highly adaptive</b></td>
-    <td>Lack assertiveness, make suggestions instead.<br>No strong opinion. Quickly change preferences & behaviors to fit in with others</td>
+    <td>Lack assertiveness, make suggestions instead. No strong opinion.<br>Quickly change preferences & behaviors to fit in with others</td>
   </tr>
   <tr>
     <td><b>Empathic</b></td>
