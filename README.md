@@ -1,6 +1,6 @@
 ## Conflict Resolution Style:
 
-Fawning is a relationship trauma response. It prioritizes seeking safety by agreeing to the demands of others and relinquishing power & control in relationships. It was recently added to the better-known Fight, Flight, & Freeze responses. Australia adopted the [4-F model](https://docs.google.com/viewer?url=https://github.com/hanjustin/hanjustin/raw/main/resources/Australia.pdf).
+Fawning is a complex trauma response developed as a last resort in prolonged high conflict interpersonal relationships. This anxiety disorder prioritizes seeking safety by adapting to the demands of others and by relinquishing power & control in relationships. It was recently added to the better-known Fight, Flight, & Freeze responses. Australia has adopted the [4-F model](https://drive.google.com/file/d/12sHj0vrb2jOfzkrxC2eArEfjoHh4Z-Mo/view?usp=sharing).
 
 <table>
   <tr>
@@ -8,16 +8,12 @@ Fawning is a relationship trauma response. It prioritizes seeking safety by agre
     <td>Respond to criticism with praise, admiration, or apology.</td>
   </tr>
   <tr>
-    <td><b>Non-confrontational</b></td>
-    <td>Lack assertiveness, make suggestions instead. No strong opinion.</td>
+    <td><b>Non-confrontational & <br>Highly adaptive</b></td>
+    <td>Lack assertiveness, make suggestions instead.<br>No strong opinion. Quickly change preferences & behaviors to fit in with others</td>
   </tr>
   <tr>
     <td><b>Empathic</b></td>
     <td>Focus on the emotions of others (but ignore own emotions)</td>
-  </tr>
-  <tr>
-    <td><b>Going along with others</b></td>
-    <td>Quickly change preferences, opinions, & behaviors to align with others</td>
   </tr>
   <tr>
     <td><b>Compliant & Submissive</b></td>
