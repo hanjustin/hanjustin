@@ -21,12 +21,12 @@ This anxiety disorder always prioritizes de-escalating conflicts without asserti
   <tr>
     <td><b>Peacemaker</b></td>
     <td>Going out of my way to make others happy or meet their needs <sup><a href="https://innerbalanceaz.com/blog/what-is-the-fawning-trauma-response#:~:text=Makes%20themselves%20as,fulfill%20someone%E2%80%99s%20request">[#]</a>
-</sup>.</td>
+</sup>. <br><a href="https://gist.github.com/hanjustin/46476b1ea1fd16158c2df50b28b98802#file-giving-feedback-to-others-md">(My examples)</a></td>
   </tr>
   <tr>
     <td><b>Empathic listening</b></td>
     <td>Use social cues to figure out what others want and say it in a way they want to hear to de-escalate conflict <sup><a href="https://www.counselingandmediationok.com/blog/fawning-as-a-response-to-trauma#:~:text=present%20themselves%20as%20non%2Dthreatening%20by%20saying%20what%20the%20threatening%20person%20wants%20to%20hear%20or%20acting%20in%20a%20way%20that%20might%20lessen%20the%20chance%20that%20the%20threatening%20person%20will%20harm%20them">[#]</a>
-</sup>. Even sometimes de-escalate conflicts of others by noticing their different assumptions or interpretations of a word (My examples TO DO)</td>
+</sup>. Even sometimes de-escalate conflicts of others by noticing their different assumptions or interpretations of a word</td>
   </tr>
   <tr>
     <td><b>Emphasize commonalities over differences</b></td>
@@ -43,9 +43,7 @@ Fawning behaviors are rarely perceived as problematic as they look like socially
 * Self-advocacy for fear of upsetting others. (Speaking up for myself. Confidently assert my rights, needs, & preferences.)
 * Saying 'No' and setting boundaries.
 
-My entangled internal problems are causing me to primarily use fawn responses, so I have additional problems which need to be addressed [Infographic_2](/resources/infographics/FawnStuck.jpg). After seeing a psychologist, I can now say 'No' a lot better, but it is still unnatural for me. I will seek additional therapies to untangle my internal problems and improve my self-advocacy.
-
-I am stuck in 
+My entangled internal problems are causing me to primarily use fawn responses, so I have additional problems which need to be addressed [(Infographic_2)](/resources/infographics/FawnStuck.jpg). After seeing a psychologist, I can now say 'No' a lot better, but it is still unnatural for me. I will seek additional therapies to untangle my internal problems and improve my self-advocacy.
 
 </details>
 
