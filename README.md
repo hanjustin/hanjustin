@@ -4,7 +4,11 @@
 
 The fawn response was recently added to the better-known fight, flight, & freeze responses. Australia has adopted the 4-F model [(Infographic_1)](https://drive.google.com/file/d/12sHj0vrb2jOfzkrxC2eArEfjoHh4Z-Mo/view?usp=sharing).
 
-Fawning is a way of seeking safety by mirroring perceived expectations of others and de-escalating conflicts without asserting power or controlling others' behaviors. It primarily involves being compliant and merging with the wishes, needs, and demands of others. It also encompasses de-escalating other people's conflicts even if not involved personally to feel safe.
+> “Fawn types seek safety by merging with the wishes, needs, and demands of others."
+> 
+> <i>Pete Walker, Psychotherapist</i>
+
+Fawning is a way of seeking safety by mirroring perceived expectations of others and de-escalating conflicts without asserting power or controlling others' behaviors. It also encompasses de-escalating other people's conflicts even if not involved personally to feel safe.
 
 As I predominantly use the fawn response, my biggest personality flaw is agreeing even when I want to disagree [(Infographic_2)](/resources/infographics/FawnStuck.jpg). I sometimes struggle to assert my boundaries and preferences, so I am planning to seek additional counseling sessions with psychologists for better self-advocacy.
 
