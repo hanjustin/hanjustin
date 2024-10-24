@@ -15,12 +15,12 @@ Fawning heavily relies on adaptability and emotional intelligence to act as a so
 
 As I predominantly use the fawn response, my biggest personality flaw is agreeing even when I want to disagree [(Infographic_2)](/resources/infographics/FawnStuck.jpg). I sometimes struggle to assert my boundaries and preferences, so I am planning to seek additional counseling sessions with psychologists for better self-advocacy.
 
-*Learn more about my personality by reading about the fawn response as I find 90~95% of fawn behaviors you can read online resonate with me.*
-
 **My history of:**
 
 * [Receiving feedback](https://gist.github.com/hanjustin/49592b8a77eea475ff1b2bba09dbd124#file-criticisms-reaction-history-md)
 * [Giving feedback](https://gist.github.com/hanjustin/46476b1ea1fd16158c2df50b28b98802#file-giving-feedback-to-others-md)
+
+*Learn more about my personality by reading about common behaviors of the [fawn response](https://definingwellness.com/resources/fawn-trauma/#:~:text=%E2%80%A2%C2%A0Self%2Dabandonment%3A%20The%20victim,compliant%20to%20avoid%20conflict) (also known as [echoism](https://www.healthline.com/health/mental-health/echoism#signs:~:text=high%20levels%20of,have%20high%20empathy)) as I find 90% of the behaviors you can read online resonate with me.*
 
 </details>
 
@@ -46,6 +46,8 @@ Fitness coach said: "You are weaker than a 1st grader or someone in his 80s. I'v
 ---
 
 * Currently studying: Java, Spring Boot, RDBMS, & SQL
+
+* Writing to save everyone's time: projects on my GitHub are all very rudimentary.
 
 <!--
 - 👯 I’m looking to collaborate on ...
