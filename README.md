@@ -1,6 +1,17 @@
 
 <details>
-<summary><h2>My Stress Response: (Click)</h2></summary>
+<summary><h2>My want for next job:  (Click)</h2></summary>
+
+I want to join a team with a strong engineering culture where team members value self-accountability & growth-mindset to see an error as a learning opportunity to exercise self-retrospection, practice root cause analysis skills, or improve the engineering process for future prevention.
+
+By believing in the culture of safe to make mistakes and trusting supportive intentions of teammates, I can be transparent and easily admit I made a mistake to prioritize solving the problem by incorporating the team's constructive feedback instead of wasting emotional energy worrying scapegoating or blame-shifting.
+
+My end goal is to leverage the collaborative environment as my psychological safe space where I can improve translating my intentions into clear communications for better self-expression and self-advocacy, which will help me rewire my brain as my psychologist said my physical pain seems to be from harsh inner critic <sup>[[#]](https://www.asafeplacetherapy.com/blog/the-fawn-response#:~:text=negative%20feelings%20gets,would%20be%20dangerous)</sup>.
+
+</details>
+
+<details>
+<summary><h2>My Stress Response:</h2></summary>
 
 The fawn response was recently added to the better-known fight, flight, & freeze responses. Australia has adopted the 4-F model [(Infographic_1)](https://drive.google.com/file/d/12sHj0vrb2jOfzkrxC2eArEfjoHh4Z-Mo/view?usp=sharing).
 
