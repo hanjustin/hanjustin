@@ -1,12 +1,12 @@
 
 <details>
-<summary><h2>My want for next job:  (Click)</h2></summary>
+<summary><h2>My Want for Next Job:  (Click)</h2></summary>
 
 I want to join a team with a strong engineering culture where team members value self-accountability & growth-mindset to see an error as a learning opportunity to exercise self-retrospection, practice root cause analysis skills, or improve the engineering process for future prevention.
 
 By believing in the culture of safe to make mistakes and trusting supportive intentions of teammates, I can be transparent and easily admit I made a mistake to prioritize solving the problem by incorporating the team's constructive feedback instead of wasting emotional energy worrying scapegoating or blame-shifting.
 
-My end goal is to leverage the collaborative environment as my psychological safe space where I can improve translating my intentions into clear communications for better self-expression and self-advocacy, which will help me rewire my brain as my psychologist said my physical pain seems to be from harsh inner critic <sup>[[#]](https://www.asafeplacetherapy.com/blog/the-fawn-response#:~:text=negative%20feelings%20gets,would%20be%20dangerous)</sup>.
+My end goal is to leverage the collaborative environment as my psychological safe space where I can explore to find and solve challenging problems as a form of artistic self-expression, rebuild my self-identity to untrap my intrinsic motivations, and improve translating my intentions into clear communications for better self-advocacy, which will help me overcome and rewire my stress response as my psychologist informed me that my physical pains seem to be [somatization](https://www.choosingtherapy.com/somatization/#:~:text=Somatization%20describes%20physical,improve%20their%20symptoms) from my harsh inner critic <sup>[[#]](https://www.asafeplacetherapy.com/blog/the-fawn-response#:~:text=negative%20feelings%20gets,aches%2C%20and%20illnesses)</sup>.
 
 </details>
 
