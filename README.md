@@ -55,9 +55,7 @@ Fitness coach said: "You are weaker than a 1st grader or someone in his 80s. I'v
 
 ---
 
-* Currently studying: Java, Spring Boot, RDBMS, & SQL
-
-* Writing to save everyone's time: projects on my GitHub are all very rudimentary.
+* Currently studying: AWS, RDBMS, & SQL
 
 <!--
 - 👯 I’m looking to collaborate on ...
