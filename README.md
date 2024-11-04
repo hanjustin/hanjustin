@@ -10,6 +10,8 @@ After attempting the fight, flight, & freeze responses, a child may develop the 
 
 > “Fawn types seek safety by merging with the wishes, needs, and demands of others."<br>
 > <i>Pete Walker, Psychotherapist</i>
+>
+> In the realm of human interaction, it is natural to consider the needs and emotions of others. However, there is a fine line between genuine care for others and self-abandonment. One way this can manifest is through a psychological defense mechanism known as “fawning.”<sup>[[#]](https://psych2go.net/6-signs-youre-abandoning-yourself-for-others/#:~:text=In%20the%20realm,known%20as%20%E2%80%9Cfawning.%E2%80%9D)</sup>
 
 <br>
 
@@ -19,12 +21,13 @@ Fawning is not defined by passivity, and fawning behaviors can look very active 
 
 
 * Fighting very hard for something, then acting like never wanted it after hearing 'No' to avoid conflict escalation<sup>[[#]](https://www.morethanquirky.com.au/fawning-the-danger-of-people-pleasing/#:~:text=As%20fawning%20is,you%20say%20no)</sup>.
-* Taking blame, even unjustified ones<sup>[[#]](https://www.psychologytoday.com/us/blog/modern-dating/202206/unlearning-blame-taking#:~:text=Blame%2Dtaking%20is,avoid%20further%20conflict)</sup>, to resolve conflict [(Infographic_2)](/resources/infographics/FawnStuck.jpg).
+* Taking blame, even unjustified ones<sup>[[#]](https://www.psychologytoday.com/us/blog/modern-dating/202206/unlearning-blame-taking#:~:text=Blame%2Dtaking%20is,avoid%20further%20conflict)</sup>, to resolve conflict [(Infographic_2)](/resources/infographics/FawnStuck.jpg). (i.e. Taking responsibility or blame for the emotional reactions, behaviors, and actions of others)
 * Hard to stand up for myself, but easily stand up for others<sup>[[#]](https://www.wikihow.life/Fawn-Response#:~:text=You%20find%20it,making%20it%20right)</sup>.
 * Expressing preferences, but always compromising or matching others' preferences to avoid a conflict. Agreeing to accept the disagreement & opposing views to de-escalate conflict.
 * Panic-fulled apology or friendliness to avoid conflict escalation.
 * Smiling or using humor while discussing uncomfortable or painful topic<sup>[[#]](https://www.choosingtherapy.com/fawning/#:~:text=Smiling%20or%20laughing%20while%20discussing%20a%20painful%20experience)</sup>.
 * Constantly doing things at the expense of your own mental and physical health. For example, your “friend” wants you to organize her party. You don’t want to do it. You have a cold and are feeling down. But, you still go out of your way to arrange the party.
+
 
 **My history of:**
 
