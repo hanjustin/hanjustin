@@ -9,11 +9,11 @@ The fawn response was recently added to the better-known fight, flight, & freeze
 <h3>Fawning can look like: (Depending on context)</h3>
 
 * Fighting very hard for something, then acting like never wanted it after hearing 'No' to avoid conflict <b>escalation</b><sup>[[#]](https://www.morethanquirky.com.au/fawning-the-danger-of-people-pleasing/#:~:text=As%20fawning%20is,you%20say%20no)</sup>.
-* Primarily involves de-escalating conflicts without asserting power or controlling others' behaviors. Also encompasses de-escalating other people's conflicts even if not involved personally to feel safe.
-* Hates unresolved interpersonal conflicts & tension in the air. Proactive about addressing conflicts to <b>prevent issues getting bigger</b> to maintain the positive open communication environment.
-* Overly agreeable. Expressing preferences, but always compromising or agreeing to others' preferences to avoid unnecessary conflicts. No strong opinion.
-* Hard to stand up for myself, but easily stand up for others<sup>[[#]](https://www.wikihow.life/Fawn-Response#:~:text=You%20find%20it,making%20it%20right)</sup>.
+* Primarily involves de-escalating conflicts without asserting power or controlling others' behaviors. Also encompasses de-escalating other people's conflicts, even if not involved personally to feel safe<sup>[[#]](https://www.verywellmind.com/fawning-fear-response-7377238#toc-examples-of-fawning:~:text=Becoming%20involved%20in%20conflict%20in%20an%20attempt%20to%20de%2Descalate%2C%20even%20if%20you%20are%20not%20involved%20in%20the%20situation)</sup>.
+* Proactive about addressing conflicts to <b>prevent issues getting bigger</b> to maintain the positive open communication environment. Dislikes unresolved interpersonal conflicts & tension in the air. Feel obligated to fix or help others from their problems<sup>[[#]](https://psych2go.net/6-signs-youre-abandoning-yourself-for-others/#:~:text=people%20who%20struggle%20with%20fawning%20often%20feel%20obligated%20to%20fix%20or%20rescue%20people%20from%20their%20problems%2C%20resulting%20in%20an%20excessive%20amount%20of%20commitments)</sup>.
+* No strong opinion & overly agreeable. Expressing preferences, but always compromising. Making decisions most often based on others’ preferences to avoid unnecessary conflicts<sup>[[#]](https://www.springsourcecenter.com/the-fawn-response-to-trauma/#:~:text=Appearing%20overly%20cooperative,on%20others%E2%80%99%20preferences)</sup>.
 * Respond to criticism with praise, admiration, or apology<sup>[[#]](https://www.morethanquirky.com.au/fawning-the-danger-of-people-pleasing/#:~:text=Respond%20to%20criticism%20with%20apology%2C%20praise%2C%20or%20admiration)</sup>.
+* Hard to stand up for myself, but easily stand up for others<sup>[[#]](https://www.wikihow.life/Fawn-Response#:~:text=You%20find%20it,making%20it%20right)</sup>.
 * Taking blames, even unjustified & not at fault ones<sup>[[#]](https://www.psychologytoday.com/us/blog/modern-dating/202206/unlearning-blame-taking#:~:text=Blame%2Dtaking%20is,avoid%20further%20conflict)</sup> to calm the situation. Feeling responsible for things that go wrong, and respond in ways to pacify others.<sup>[[#]](https://www.counsellinginperth.com.au/signs-fawning-trauma-response/#:~:text=You%20take%20things%20on%20board%20that%20are%20not%20your%20fault%20to%20calm%20the%20situation%2C%20feeling%20responsible%20for%20things%20that%20go%20wrong%2C%20and%20respond%20in%20ways%20to%20pacify%20others.%20You%20can%20feel%20overly%20apologetic%20to%20avoid%20getting%20in%20trouble.)</sup>.
 * Taking blame or responsibility for the emotional reactions, behaviors, and actions of others<sup>[[#]](https://www.carmeltherapy.com/fawn#:~:text=Taking%20responsibility%20or%20blame%20for%20the%20emotional%20reactions%2C%20behaviors%2C%20and%20actions%20of%20others)</sup>.
 * Smiling or using humor in a conflict while discussing uncomfortable or painful topic<sup>[[#]](https://www.choosingtherapy.com/fawning/#:~:text=Smiling%20or%20laughing%20while%20discussing%20a%20painful%20experience)</sup>.
@@ -72,7 +72,7 @@ Fitness coach said: "You are weaker than a 1st grader or someone in his 80s. I'v
 
 ---
 
-* Currently studying: Java, AWS, RDBMS, & SQL
+* Currently studying: Java, Spring Boot, SQL & NoSQL, Docker & Kubernetes, AWS
 
 <!--
 - 👯 I’m looking to collaborate on ...
